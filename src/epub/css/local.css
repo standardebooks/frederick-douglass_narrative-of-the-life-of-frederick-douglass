@@ -6,7 +6,7 @@
 }
 
 footer{
-  margin-top: 1em;
+	margin-top: 1em;
 	text-align: right;
 }
 
@@ -22,4 +22,41 @@ footer{
 
 footer [epub|type~="z3998:recipient"]{
   text-align: left
+}
+
+[epub|type~="z3998:poem"] header > p{
+	text-align: center;
+	font-variant: small-caps;
+}
+
+[epub|type~="z3998:poem"] header + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:poem"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p > span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br{
+	display: none;
+}
+
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+[epub|type~="z3998:poem"] + p{
+	text-indent: 0;
+}
+
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
 }
