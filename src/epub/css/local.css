@@ -20,6 +20,21 @@ footer{
 	font-variant: small-caps;
 }
 
+.right-i1::after {
+	content: "\0000a0";
+	letter-spacing: 1rem;
+}
+
+.right-i2::after {
+	content: "\0000a0";
+	letter-spacing: 2rem;
+}
+
+.right-i3::after {
+	content: "\0000a0";
+	letter-spacing: 3rem;
+}
+
 footer [epub|type~="z3998:recipient"]{
   text-align: left
 }
