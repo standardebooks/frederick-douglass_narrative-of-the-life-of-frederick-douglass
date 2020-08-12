@@ -39,6 +39,24 @@ footer [epub|type~="z3998:recipient"]{
   text-align: left
 }
 
+[epub|type~="z3998:song"] p,
+[epub|type~="z3998:verse"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:song"] p > span,
+[epub|type~="z3998:verse"] p > span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:song"] p > span + br,
+[epub|type~="z3998:verse"] p > span + br{
+	display: none;
+}
+
 [epub|type~="z3998:poem"] header > p{
 	text-align: center;
 	font-variant: small-caps;
@@ -74,4 +92,9 @@ footer [epub|type~="z3998:recipient"]{
 p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
+}
+
+p span.i2{
+	text-indent: -1em;
+	padding-left: 3em;
 }
