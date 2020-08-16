@@ -10,7 +10,6 @@ footer{
 	text-align: right;
 }
 
-[epub|type~="z3998:sender"],
 [epub|type~="z3998:recipient"],
 [epub|type~="z3998:salutation"]{
   font-variant: small-caps;
@@ -35,8 +34,10 @@ footer{
 	letter-spacing: 3rem;
 }
 
-footer [epub|type~="z3998:recipient"]{
-  text-align: left
+footer [epub|type~="z3998:recipient"],
+.letter-footer-left{
+  text-align: left;
+  text-indent: 0;
 }
 
 [epub|type~="z3998:song"] p,
