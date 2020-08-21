@@ -12,32 +12,32 @@ footer{
 
 [epub|type~="z3998:recipient"],
 [epub|type~="z3998:salutation"]{
-  font-variant: small-caps;
+	font-variant: small-caps;
 }
 
 .signature{
 	font-variant: small-caps;
 }
 
-#letter-from-wendell-phillips-esq footer [epub|type~="z3998:valediction"] span:nth-of-type(1)::after {
-	content: "\0000a0";
+#letter-from-wendell-phillips-esq footer [epub|type~="z3998:valediction"] span:nth-of-type(1)::after{
+	content: " ";
 	letter-spacing: 3rem;
 }
 
-#letter-from-wendell-phillips-esq footer [epub|type~="z3998:valediction"] span:nth-of-type(2)::after {
-	content: "\0000a0";
+#letter-from-wendell-phillips-esq footer [epub|type~="z3998:valediction"] span:nth-of-type(2)::after{
+	content: " ";
 	letter-spacing: 2rem;
 }
 
-#letter-from-wendell-phillips-esq footer [epub|type~="z3998:valediction"] span:nth-of-type(3)::after {
-	content: "\0000a0";
+#letter-from-wendell-phillips-esq footer [epub|type~="z3998:valediction"] span:nth-of-type(3)::after{
+	content: " ";
 	letter-spacing: 1rem;
 }
 
 footer [epub|type~="z3998:recipient"],
 .letter-footer-left{
-  text-align: left;
-  text-indent: 0;
+	text-align: left;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:song"] p,
