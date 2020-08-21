@@ -19,19 +19,19 @@ footer{
 	font-variant: small-caps;
 }
 
-.right-i1::after {
+#letter-from-wendell-phillips-esq footer [epub|type~="z3998:valediction"] span:nth-of-type(1)::after {
 	content: "\0000a0";
-	letter-spacing: 1rem;
+	letter-spacing: 3rem;
 }
 
-.right-i2::after {
+#letter-from-wendell-phillips-esq footer [epub|type~="z3998:valediction"] span:nth-of-type(2)::after {
 	content: "\0000a0";
 	letter-spacing: 2rem;
 }
 
-.right-i3::after {
+#letter-from-wendell-phillips-esq footer [epub|type~="z3998:valediction"] span:nth-of-type(3)::after {
 	content: "\0000a0";
-	letter-spacing: 3rem;
+	letter-spacing: 1rem;
 }
 
 footer [epub|type~="z3998:recipient"],
