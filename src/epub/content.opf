@@ -43,14 +43,16 @@
 		<meta property="term" refines="#subject-4">sh2010113252</meta>
 		<meta property="se:subject">Autobiography</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Frederick Douglass describes his youth as a slave in Maryland and his desire to be a free man.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Narrative of the Life of Frederick Douglass, An American Slave&lt;/i&gt; was written in 1845, seven years after &lt;a href="https://standardebooks.org/ebooks/frederick-douglass"&gt;Douglass&lt;/a&gt; escaped slavery, and is the first of three autobiographies. It covers his life as a slave, enduring the whips of the overseers and the hopelessness of his circumstances, until his escape to the north and arrival at New Bedford, Massachusetts. The brutalities he witnessed and his slowly growing desire for freedom are presented in the vivid language for which he was already known for in his antislavery oration.&lt;/p&gt;
+			&lt;p&gt;Douglass’s speeches were eloquent enough that some skeptics doubted that a former slave with no formal education could speak so well. Thus part of his motivation for writing the book was to dispel this suspicion and to provide a fuller description than was possible to provide in his lectures. The abolitionists William Lloyd Garrison and Wendell Phillips provided introductions vouching for the credibility of Douglass’s words.&lt;/p&gt;
+			&lt;p&gt;The book was an immediate best seller. The fame brought danger to Douglass, who sailed for England shortly after the book’s publication to ensure he would not be apprehended as a fugitive slave. He spent two years touring and giving lectures in Great Britain and Ireland before returning to America to continue his abolitionist work. English supporters raised funds to purchase his freedom from his former master.&lt;/p&gt;
+			&lt;p&gt;The slave narrative is an autobiographical genre written by escaped slaves concerning their lives in bondage. Slave narratives not only promoted abolitionism by giving first hand evidence of the cruelty and hypocracy of slaveholders, but also allowed African Americans to express themselves as intelligent, articulate individuals, deserving of respect and freedom. Douglass’s &lt;i&gt;Narrative&lt;/i&gt; is perhaps the most important example of the genre, on the basis of its literary merits and its impact on the abolition movement.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/23</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009260192</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Narrative_of_the_Life_of_Frederick_Douglass</meta>
