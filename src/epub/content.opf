@@ -60,7 +60,7 @@
 		<dc:creator id="author">Frederick Douglass</dc:creator>
 		<meta property="file-as" refines="#author">Douglass, Frederick</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Frederick_Douglass</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80013236</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80013236</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="writer-of-preface">Wm. Lloyd Garrison</dc:contributor>
