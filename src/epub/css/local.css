@@ -60,8 +60,8 @@ footer [epub|type~="se:letter.dateline"]{
 }
 
 [epub|type~="z3998:poem"] header > p{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 [epub|type~="z3998:poem"] header + p{
