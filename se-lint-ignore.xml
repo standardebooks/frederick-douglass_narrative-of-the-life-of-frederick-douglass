@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="letter-from-wendell-phillips-esq.xhtml">
-		<ignore>
-			<code>s-046</code>
+		<ignore code="s-046">
 			<reason>Paragraph is a multiline valediction with different right indentation on each line.</reason>
 		</ignore>
 	</file>
