@@ -31,9 +31,9 @@
 		<dc:title id="title">Narrative of the Life of Frederick Douglass</dc:title>
 		<meta property="file-as" refines="#title">Narrative of the Life of Frederick Douglass</meta>
 		<dc:subject id="subject-1">Douglass, Frederick, 1818-1895</dc:subject>
-		<dc:subject id="subject-2">African American abolitionists -- Biography</dc:subject>
-		<dc:subject id="subject-3">Abolitionists -- United States -- Biography</dc:subject>
-		<dc:subject id="subject-4">Slaves -- United States -- Biography</dc:subject>
+		<dc:subject id="subject-2">African American abolitionists--Biography</dc:subject>
+		<dc:subject id="subject-3">Abolitionists--United States--Biography</dc:subject>
+		<dc:subject id="subject-4">Slaves--United States--Biography</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">n80013236</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
